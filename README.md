@@ -1,4 +1,4 @@
-# This is .net starndard version fork from locationiq which is unofficial
+# This is .net starndard version fork from locationiq and It is unofficial
 
 # locationiq - the C# library for the LocationIQ
 
