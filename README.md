@@ -1,3 +1,5 @@
+# This is .net starndard version fork from locationiq which is unofficial
+
 # locationiq - the C# library for the LocationIQ
 
 LocationIQ provides flexible enterprise-grade location based solutions. We work with developers, startups and enterprises worldwide serving billions of requests everyday. This page provides an overview of the technical aspects of our API and will help you get started.
